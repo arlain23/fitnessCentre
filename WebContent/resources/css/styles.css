@@ -1,0 +1,11 @@
+.logo-username{
+    color: white;
+    text-decoration: overline;
+    font-size: 1.2em;
+    padding-top: 5px;
+}
+
+.main-content{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
